@@ -1,0 +1,16 @@
+ESP32 PINOUT MAPPING
++-----------------------------------+
+| COMPONENT       | ESP32 PIN       |
+|-----------------|-----------------|
+| LCD SDA         | GPIO 21         |
+| LCD SCL         | GPIO 22         |
+| Encoder CLK     | GPIO 25         |
+| Encoder DT      | GPIO 26         |
+| Encoder SW      | GPIO 27         |
+| RGB Red         | GPIO 16         |
+| RGB Green       | GPIO 17         |
+| RGB Blue        | GPIO 5          |
+| Buzzer (+)      | GPIO 18         |
++-----------------------------------+
+* Power: Connect LCD VCC to VIN (5V). 
+* Encoder VCC can go to 3.3V.
