@@ -1,4 +1,4 @@
-1. The "Story" (Copy-paste this for the Description)
+1. The "Story"
 Introduction I wanted a desktop companion that didn't just show the time but actively helped me focus and relax. Using an ESP32, I built the ISO-Deck. Unlike standard Arduino loops that pause when fetching data from the internet, this project leverages the ESP32's Dual-Core architecture (FreeRTOS).
 
 How it Works (The Dual-Core Engine)
